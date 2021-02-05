@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid19</string>
+    <string name="dashboard">الرئيسية</string>
+    <string name="info">معلومات</string>
+    <string name="news">الأخبار</string>
+    <string name="help">مساعدة</string>
+    <string name="jordan">الاردن</string>
+    <string name="cases">الحالات</string>
+    <string name="today_cases">حالات اليوم</string>
+    <string name="deaths">الوفايات</string>
+    <string name="today_deaths">الوفايات اليوم</string>
+    <string name="active">الحالات النشطة</string>
+    <string name="today_recovered">المتعافون اليوم</string>
+    <string name="countries_data">معلومات الدول</string>
+    <string name="recovered">المتعافون</string>
+    <string name="corona1tit">ما هو فيروس كورونا؟</string>
+    <string name="corona1dec">"فيروسات كورونا هي سلالة واسعة من الفيروسات التي قد تسبب المرض للحيوان والإنسان. ومن المعروف أن عدداً من فيروسات كورونا تسبب لدى البشر أمراض تنفسية تتراوح حدتها من نزلات البرد الشائعة إلى الأمراض الأشد وخامة مثل متلازمة الشرق الأوسط التنفسية (ميرس) والمتلازمة التنفسية الحادة الوخيمة (سارس). ويسبب فيروس كورونا المُكتشف مؤخراً مرض كوفيد-19.  "</string>
+    <string name="corona2dec">"تتمثل الأعراض الأكثر شيوعاً لمرض كوفيد-19 في ‏الحمى والإرهاق والسعال الجاف. وتشمل الأعراض ‏الأخرى الأقل شيوعاً ولكن قد يُصاب بها بعض ‏المرضى: الآلام والأوجاع، واحتقان الأنف، ‏والصداع، والتهاب الملتحمة، وألم الحلق، والإسهال، ‏وفقدان حاسة الذوق أو الشم، وظهور طفح جلدي ‏أو تغير لون أصابع اليدين أو القدمين. وعادة ما ‏تكون هذه الأعراض خفيفة وتبدأ بشكل تدريجي. ‏ويصاب بعض الناس بالعدوى دون أن يشعروا إلا ‏بأعراض خفيفة جداً.  "</string>
+    <string name="corona2tit">ما هي أعراض مرض كوفيد -19؟</string>
+    <string name="corona3dec">الانتقال المباشر من خلال الرذاذ المتطاير من المريض أثناء السعال أو العطس. الانتقال غير المباشر (لمس الأسطح والأدوات الملوثة بإفرازات المريض، ومن ثم لمس الفم أو الأنف أو العين). المخالطة المباشرة للمصابين.</string>
+    <string name="corona3tit">"طرق الانتقال "</string>
+    <string name="corona4tit">إجراءات الوقاية</string>
+    <string name="corona4dec">ارتداء الكمامة, غسل اليدين, التباعد عن الاخرين</string>
+    <string name="help1">اِسأل عن الكورونا عبر الرقم المجاني</string>
+    <string name="namee">الاسم</string>
+    <string name="help2">ميدلاب</string>
+    <string name="help3">ميجالاب</string>
+
+</resources>

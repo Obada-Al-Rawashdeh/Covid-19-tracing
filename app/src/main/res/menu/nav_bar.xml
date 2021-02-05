@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mDashboard"
+        android:title="@string/dashboard"
+        android:icon="@drawable/ic_dashboard"/>
+
+    <item
+        android:id="@+id/mInfo"
+        android:title="@string/info"
+        android:icon="@drawable/ic_info"/>
+
+    <item
+        android:id="@+id/mNews"
+        android:title="@string/news"
+        android:icon="@drawable/ic_earth"/>
+
+    <item
+        android:id="@+id/mHelp"
+        android:title="@string/help"
+        android:icon="@drawable/ic_phone"/>
+</menu>

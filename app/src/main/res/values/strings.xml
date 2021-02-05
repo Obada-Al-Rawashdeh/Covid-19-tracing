@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Covid19</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="info">Info</string>
+    <string name="news">News</string>
+    <string name="help">Help</string>
+    <string name="jordan">Jordan</string>
+    <string name="cases">Cases</string>
+    <string name="today_cases">Today cases</string>
+    <string name="deaths">Deaths</string>
+    <string name="today_deaths">Today deaths</string>
+    <string name="active">Active</string>
+    <string name="today_recovered">Today recovered</string>
+    <string name="countries_data">Countries data</string>
+    <string name="recovered">Recovered</string>
+    <string name="corona1tit">What is Coronavirus?</string>
+    <string name="corona4tit">Prevention measures</string>
+    <string name="corona4dec">Wearing a mask\n\nWashing your hands\n\nSocial distance</string>
+    <string name="corona2tit">What are the symptoms of Covid-19?</string>
+    <string name="corona1dec">Coronaviruses are a broad family of viruses that may cause disease in animals and humans. It is known that many coronaviruses in humans cause respiratory diseases ranging in severity from the common cold to more severe diseases such as the Middle East respiratory syndrome (MERS) and severe acute respiratory syndrome (SARS). The recently discovered Coronavirus causes Covid-19 disease.</string>
+    <string name="corona2dec">The most common symptoms of COVID-19 are fever, fatigue and a dry cough. Other symptoms that are less common but may be experienced by some patients include: pains and aches, nasal congestion, headache, conjunctivitis, sore throat, diarrhea, loss of sense of taste or smell, and the appearance of a rash or discoloration of the fingers or toes. These symptoms are usually mild and start gradually. Some people become infected with only very mild symptoms.</string>
+    <string name="corona3tit">Transportation methods</string>
+    <string name="corona3dec">Direct transmission by flying droplets from the patient while coughing or sneezing.\n\nIndirect transmission (touching surfaces and tools contaminated with the secretions of the patient, and then touching the mouth, nose, or eyes).\n\nDirect contact with the injured.</string>
+    <string name="help1">Ask about the corona via the toll-free number</string>
+    <string name="namee">name</string>
+    <string name="help2">MedLabs</string>
+    <string name="help3">MegaLabs</string>
+</resources>
